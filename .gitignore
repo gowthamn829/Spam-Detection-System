@@ -1,0 +1,22 @@
+# React
+frontend/node_modules
+frontend/dist
+
+# Python
+training-server/venv
+training-server/__pycache__
+*.pyc
+
+# Java
+prediction-server/bin
+prediction-server/target
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode
+.idea
+.project
+.classpath
+.settings
